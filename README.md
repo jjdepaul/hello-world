@@ -1,2 +1,5 @@
 # hello-world
-This is a sample Hello World repository;  a practice run for GitHub
+Testing the GitHub waters.
+
+The coffee is good, the room is warm and the team is awesome.   Life is good for now.   
+
